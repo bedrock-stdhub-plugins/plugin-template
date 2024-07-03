@@ -1,4 +1,4 @@
-# stdhub-plugin-template
+# plugin-template
 
 A `bedrock-stdhub` plugin starter project.
 
