@@ -20,4 +20,4 @@ plugin:
 # After modifying this, please remember to execute `npm run update-dependency`
 # and then execute `npm install` (or other package managers).
 # Finally, FULLY CHECK YOUR CODE to see if there is any reference failure!
-targetMinecraftVersion: 1.21.0
+targetMinecraftVersion: 1.21.1
